@@ -1,4 +1,4 @@
-# Mircosoft Farbric End to End Pipeline
+# Mircosoft Farbric End to End Pipeline 
 
 ##  Project Overview
 This project demonstrates a complete **end-to-end Power BI analytics solution** built using the **Medallion Architecture** approach (Bronze, Silver, and Gold layers).
