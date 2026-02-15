@@ -5,8 +5,10 @@ This project demonstrates a complete **end-to-end Power BI analytics solution** 
 
 ##  Architecture Overview
 
+![Power BI Dashboard](https://github.com/Usama00004/Sales-Data-Pipeline/blob/main/Images/Dashboard%20Snapshot.png)
 
-## 🥉 Bronze Layer – Raw Data
+
+##  Bronze Layer – Raw Data
 
 ### Purpose
 - Capture raw data from source systems
@@ -21,8 +23,6 @@ This project demonstrates a complete **end-to-end Power BI analytics solution** 
 ### Implementation
 - Power BI Dataflows ingest source data
 - Data stored in the Bronze Lakehouse
-
--
 
 ## Silver Layer – Cleaned & Transformed Data
 
@@ -41,8 +41,6 @@ This project demonstrates a complete **end-to-end Power BI analytics solution** 
 - Power BI Dataflows read from Bronze Lakehouse
 - Cleaned data written to Silver Lakehouse
 
--
-
 ## Gold Layer – Business-Ready Data
 
 ### Purpose
@@ -59,8 +57,6 @@ This project demonstrates a complete **end-to-end Power BI analytics solution** 
 - Power BI Dataflows read from Silver Lakehouse
 - Curated datasets stored in Gold Lakehouse
 
--
-
 ##  Semantic Model
 
 ### Purpose
@@ -76,8 +72,6 @@ This project demonstrates a complete **end-to-end Power BI analytics solution** 
 
 ### Implementation
 - Semantic Model built on top of Gold Lakehouse tables
-
--
 
 ##  Power BI Report
 
