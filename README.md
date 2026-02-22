@@ -5,7 +5,7 @@ This project demonstrates a complete **end-to-end Power BI analytics solution** 
 
 ##  Architecture Overview
 
-![Power BI Dashboard](https://github.com/Usama00004/Sales-Data-Pipeline/blob/main/Images/Dashboard%20Snapshot.png)
+![Power BI Dashboard](https://github.com/Usama00004/Sales-Data-Pipeline/blob/main/Images/Data%20Pipeline.png)
 
 
 ##  Bronze Layer – Raw Data
