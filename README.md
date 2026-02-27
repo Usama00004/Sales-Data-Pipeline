@@ -1,6 +1,6 @@
 # Mircosoft Farbric End to End Pipeline 
 
-##  Project Overview
+##  Project Overview 
 This project demonstrates a complete **end-to-end Power BI analytics solution** built using the **Medallion Architecture** approach (Bronze, Silver, and Gold layers).Data is ingested into **Lakehouses** using **Power BI Dataflows**, progressively refined across layers, exposed through a **Semantic Model**, and finally visualized in a **Power BI report**.  The architecture follows industry best practices for **scalability, data quality, governance, and performance**.
  
 ##  Architecture Overview
